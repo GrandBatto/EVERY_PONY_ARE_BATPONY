@@ -15,6 +15,6 @@ state={
 		owner = BOI
 		add_core_of = BOI
 	}
-	manpower=123098
+	manpower=67056
 	buildings_max_level_factor=1.000
 }

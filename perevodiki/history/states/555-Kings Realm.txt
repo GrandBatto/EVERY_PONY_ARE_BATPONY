@@ -10,9 +10,9 @@ state={
 		owner = GRI
 		add_core_of = GRI
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
 	}
-	manpower=337065
+	manpower=137065
 	buildings_max_level_factor=1.000
 }
