@@ -1,5 +1,5 @@
 state = {
-	id = 341
+	id = 683
 	name = "STATE_Unused"
 	manpower = 1
 	state_category = wasteland
@@ -16,5 +16,6 @@ state = {
 	history = {
 	}
 	provinces = {
+512 553 3579 3604 3626 3655 6449 6533 6599 6780 9434 9550 9578 9582 9598 9629 11535 11570 11584
 			}
 }
