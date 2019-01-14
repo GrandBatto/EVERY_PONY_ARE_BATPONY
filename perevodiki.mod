@@ -1,4 +1,5 @@
 ﻿name="Война переводчкив: Начало"
+path="mod/perevodiki/"
 dependencies = { "Equestria at War" }
 tags={
 	"Events"
