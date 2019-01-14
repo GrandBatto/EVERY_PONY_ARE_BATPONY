@@ -1,0 +1,100 @@
+﻿capital = 492
+oob = "BRZ_1007"
+set_research_slots = 3
+
+set_technology = {
+	diamond_dog_race = 1
+	tech_ironpaws = 1
+	melee_weapons = 1
+	melee_weapons1 = 1
+	pre_gw_artillery = 1
+	tech_engineers = 1
+	tech_support = 1
+	tech_mountaineers = 1
+}
+
+set_convoys = 70
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 20
+		}
+
+		fascism = {
+			popularity = 10
+		}
+
+		communism = {
+			popularity = 10
+			#banned = no #default is no
+		}
+
+		neutrality = {
+			popularity = 60
+		}
+	}
+
+	ruling_party = neutrality
+	last_election = "1000.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+add_ideas = {
+	pre_industrial_society
+	BRZ_imperial_industry
+	BRZ_pacifism1
+	poverty5
+	lack_of_scientists
+}
+
+set_stability = 0.5
+set_war_support = 0.2
+set_cosmetic_tag = GRI_SUBJECT
+
+create_country_leader = {
+	name = "Count Ignatius Bronzetail"
+	desc = ""
+	picture = "Cyrus_dog.tga"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		young_count
+	}
+}
+
+create_country_leader = {
+	name = "Rufus Loudbark"
+	picture = "gfx//leaders//Dogs//portrait_dog_generic_2.dds"
+	expire = "1965.1.1"
+	ideology = rexism
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Winston Copperhill"
+	desc = ""
+	picture = "gfx//leaders//Dogs//portrait_dog_generic_5.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		stubbon_bulldog
+	}
+}
+
+create_country_leader = {
+	name = "Rosie Bronzegold"
+	desc = ""
+	picture = "gfx//leaders//Dogs//Portrait_Africa_Generic_2.dds"
+	expire = "1965.1.1"
+	ideology = leninism
+	traits = {
+
+	}
+}
+
+set_rule = {
+	can_generate_female_aces = yes
+}
