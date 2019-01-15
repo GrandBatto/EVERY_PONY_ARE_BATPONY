@@ -6,8 +6,8 @@ state={
 	}
 	state_category = rural
 	history = {
-		owner = FAT
-		add_core_of = FAT
+		#owner = FAT
+		#add_core_of = FAT
 		buildings = {
 			infrastructure = 1
 		}

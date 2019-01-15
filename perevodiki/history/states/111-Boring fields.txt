@@ -5,8 +5,8 @@ state={
 
 	resources = { steel = 10 }
 	history={
-		owner = EQS
-		add_core_of = EQS
+		#owner = EQS
+		#add_core_of = EQS
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 3

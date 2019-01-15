@@ -7,8 +7,8 @@ state={
 	}
 	state_category = pastoral
 	history = {
-		owner = FBK
-		add_core_of = FBK
+		#owner = FBK
+		#add_core_of = FBK
 		victory_points = {
 			3962 2
 		}

@@ -4,8 +4,8 @@ state={
 	name="STATE_673"
 
 	history={
-		owner = ERI
-		add_core_of = AVI
+		#owner = ERI
+		#add_core_of = AVI
 		buildings = {
 
 		}

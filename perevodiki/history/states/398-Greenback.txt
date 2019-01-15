@@ -11,8 +11,8 @@ state={
 	}
 	state_category = city
 	history = {
-		owner = YAL
-		add_core_of = YAL
+		#owner = YAL
+		#add_core_of = YAL
 		victory_points = { 12691 20 }
 		victory_points = { 10570 3 }
 		victory_points = { 7815 2 }

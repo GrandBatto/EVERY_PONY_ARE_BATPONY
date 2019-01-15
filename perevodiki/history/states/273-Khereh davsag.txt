@@ -4,8 +4,8 @@ state={
 	name="STATE_273"
 
 	history={
-		owner = YAK
-		add_core_of = YAK
+		#owner = YAK
+		#add_core_of = YAK
 
 	}
 

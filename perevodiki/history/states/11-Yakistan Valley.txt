@@ -9,8 +9,7 @@ state={
 	}
 
 	history={
-		owner = YAK
-		add_core_of = YAK
+		
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3

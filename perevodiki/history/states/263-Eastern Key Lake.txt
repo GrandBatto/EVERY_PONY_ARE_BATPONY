@@ -6,8 +6,8 @@ state={
 	}
 	manpower=40600
 	history={
-		owner = PLB
-		add_core_of = PLB
+		#owner = PLB
+		#add_core_of = PLB
 	}
 
 	state_category = wasteland

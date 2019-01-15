@@ -9,8 +9,8 @@ state={
 		oil=14.000
 	}
 	history = {
-		owner = NCH
-		add_core_of = NCH
+		#owner = NCH
+		#add_core_of = NCH
 		buildings = {
 			infrastructure = 1
 			1964 = {

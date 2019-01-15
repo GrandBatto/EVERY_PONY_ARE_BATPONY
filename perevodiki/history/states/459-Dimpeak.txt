@@ -12,8 +12,8 @@ state={
 		chromium=12.000
 	}
 	history = {
-		add_core_of = MNC
-		owner = MNC
+		#add_core_of = MNC
+		#owner = MNC
 	}
 	manpower=136905
 	buildings_max_level_factor=1.000

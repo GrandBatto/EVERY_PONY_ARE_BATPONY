@@ -9,8 +9,8 @@ state={
 	}
 	state_category = pastoral
 	history = {
-		owner = FBK
-		add_core_of = FBK
+		#owner = FBK
+		#add_core_of = FBK
 	}
 	manpower=102444
 	buildings_max_level_factor=1.000

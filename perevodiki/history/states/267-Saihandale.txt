@@ -7,8 +7,8 @@ state={
 	}
 	manpower=1085498
 	history={
-		owner = YAK
-		add_core_of = YAK
+		#owner = YAK
+		#add_core_of = YAK
 		buildings = {
 			infrastructure = 2
 		}

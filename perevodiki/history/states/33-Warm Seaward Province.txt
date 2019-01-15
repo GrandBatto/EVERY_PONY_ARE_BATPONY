@@ -4,9 +4,7 @@ state={
 	name="STATE_33"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
-
+		
 	}
 
 	provinces={

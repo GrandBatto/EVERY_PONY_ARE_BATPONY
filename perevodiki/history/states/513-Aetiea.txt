@@ -9,8 +9,8 @@ state={
 		rubber=12.000
 	}
 	history = {
-		owner = MIT
-		add_core_of = MIT
+		#owner = MIT
+		#add_core_of = MIT
 		victory_points = { 2047 5 }
 		buildings = {
 			infrastructure = 2

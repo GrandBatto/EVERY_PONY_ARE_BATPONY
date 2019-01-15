@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = VED
-		add_core_of = VED
+		#owner = VED
+		#add_core_of = VED
 
 	}
 

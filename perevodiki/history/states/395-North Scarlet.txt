@@ -9,8 +9,8 @@ state={
 		1275 4280 4321 4472 5032 7297 7340 7428 10799 11038 12114 12734
 	}
 	history={
-		owner = SIC
-		add_core_of = SIC
+		#owner = SIC
+		#add_core_of = SIC
 
 	}
 	manpower=105608

@@ -9,8 +9,8 @@ state={
 		oil = 5
 	}
 	history={
-		owner = STG
-		add_core_of = STG
+		#owner = STG
+		#add_core_of = STG
 		buildings = {
 			infrastructure = 3
 		}

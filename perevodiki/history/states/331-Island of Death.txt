@@ -6,8 +6,8 @@ state={
 	}
 	manpower=1
 	history = {
-		owner = OLE
-		add_core_of = OLE
+		#owner = OLE
+		#add_core_of = OLE
 	}
 	state_category = small_island
 	buildings_max_level_factor=1.000

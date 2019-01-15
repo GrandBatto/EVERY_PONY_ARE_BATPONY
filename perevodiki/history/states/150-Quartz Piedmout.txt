@@ -8,8 +8,8 @@ state={
 		tungsten = 12 }
 
 	history={
-		owner = CRY
-		add_core_of = CRY
+		#owner = CRY
+		#add_core_of = CRY
 		buildings = {
 			infrastructure = 1
 		}

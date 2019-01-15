@@ -10,8 +10,8 @@ state={
 		rubber=10.000
 	}
 	history = {
-		owner = WNG
-		add_core_of = WNG
+		#owner = WNG
+		#add_core_of = WNG
 		victory_points = { 12115 1 }
 		victory_points = { 3900 2 }
 		buildings = {

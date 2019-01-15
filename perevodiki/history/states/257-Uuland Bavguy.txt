@@ -6,8 +6,8 @@ state={
 	}
 	manpower=43472
 	history={
-		owner = YAK
-		add_core_of = YAK
+		#owner = YAK
+		#add_core_of = YAK
 	}
 
 	state_category = pastoral

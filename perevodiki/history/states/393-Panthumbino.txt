@@ -12,8 +12,8 @@ state={
 	}
 	manpower=125647
 	history={
-		owner = FAL
-		add_core_of = FAL
+		#owner = FAL
+		#add_core_of = FAL
 		buildings = {
 			infrastructure = 1
 		}

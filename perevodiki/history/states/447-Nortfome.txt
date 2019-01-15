@@ -13,8 +13,8 @@ state={
 		victory_points = {
 			9084 3
 		}
-		owner = PYT
-		add_core_of = PYT
+		#owner = PYT
+		#add_core_of = PYT
 		buildings = {
 			infrastructure = 1
 

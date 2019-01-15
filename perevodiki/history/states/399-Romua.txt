@@ -4,9 +4,9 @@ state={
 	name="STATE_399"
 
 	history={
-		owner = PYT
-		add_core_of = PYT
-		add_core_of = ROU
+		#owner = PYT
+		#add_core_of = PYT
+		#add_core_of = ROU
 
 		buildings = {
 			infrastructure = 2

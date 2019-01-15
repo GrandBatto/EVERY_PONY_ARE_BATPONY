@@ -7,8 +7,8 @@ state={
 	}
 	manpower=3904005
 	history={
-		owner = TRD
-		add_core_of = TRD
+		#owner = TRD
+		#add_core_of = TRD
 		victory_points = { 12882 50 }
 		buildings = {
 			infrastructure = 8

@@ -4,10 +4,10 @@ state={
 	name="STATE_507"
 
 	history={
-		owner = CYA
-		add_core_of = CYA
+		#owner = CYA
+		#add_core_of = CYA
 		add_claim_by = MIT
-		add_core_of = BRF
+		#add_core_of = BRF
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

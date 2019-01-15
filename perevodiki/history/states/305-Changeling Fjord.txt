@@ -8,8 +8,8 @@ state={
 	}
 	manpower=1600300
 	history={
-		owner = CHN
-		add_core_of = CHN
+		#owner = CHN
+		#add_core_of = CHN
 		buildings = {
 			industrial_complex = 2
 			infrastructure = 2

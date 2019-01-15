@@ -8,8 +8,8 @@ state={
 		oil=8.000
 	}
 	history={
-		owner = VED
-		add_core_of = VED
+		#owner = VED
+		#add_core_of = VED
 
 	}
 

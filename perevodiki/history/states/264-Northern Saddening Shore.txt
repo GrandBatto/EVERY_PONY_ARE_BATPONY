@@ -5,8 +5,8 @@ state={
 		1866 4664 4807 9450 10341 12357 12459
 	}
 	history={
-		owner = CHN
-		add_core_of = CHN
+		#owner = CHN
+		#add_core_of = CHN
 	}
 	manpower =1576
 	state_category = pastoral

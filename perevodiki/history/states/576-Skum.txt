@@ -8,8 +8,8 @@ state={
 		oil = 16.000
 	}
 	history = {
-		owner = VED
-		add_core_of = VED
+		#owner = VED
+		#add_core_of = VED
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

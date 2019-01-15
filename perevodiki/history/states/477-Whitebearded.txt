@@ -11,8 +11,8 @@ state={
 	}
 	state_category = rural
 	history = {
-		add_core_of = MNC
-		owner = MNC
+		#add_core_of = MNC
+		#owner = MNC
 	}
 	manpower=124506
 	buildings_max_level_factor=1.000

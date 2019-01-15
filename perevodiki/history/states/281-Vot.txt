@@ -6,10 +6,10 @@ state={
 	}
 	manpower=202800
 	history={
-		owner = GFF
-		add_core_of = GFF
-		add_core_of = GRF
-		add_core_of = YAK
+		#owner = GFF
+		#add_core_of = GFF
+		#add_core_of = GRF
+		#add_core_of = YAK
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

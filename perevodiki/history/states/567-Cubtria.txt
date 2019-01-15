@@ -8,8 +8,8 @@ state={
 	state_category = rural
 	manpower=152500
 	history = {
-		owner = NTR
-		add_core_of = NTR
+		#owner = NTR
+		#add_core_of = NTR
 		victory_points = {
 			13240 7
 		}

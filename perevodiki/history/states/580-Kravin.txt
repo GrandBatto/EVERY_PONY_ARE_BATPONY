@@ -10,8 +10,8 @@ state={
 	}
 	state_category = rural
 	history = {
-		owner = FRE
-		add_core_of = FRE
+		#owner = FRE
+		#add_core_of = FRE
 		victory_points = { 1983 3 }
 		buildings = {
 			infrastructure = 1

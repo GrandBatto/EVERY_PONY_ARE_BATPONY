@@ -7,8 +7,8 @@ state={
 		1399 4533 4617 8181 8184 8242 10345 10419 11002 12903
 	}
 	history = {
-		owner = WAT
-		add_core_of = WAT
+		#owner = WAT
+		#add_core_of = WAT
 		victory_points = {
 			12903 2
 		}

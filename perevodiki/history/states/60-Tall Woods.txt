@@ -8,8 +8,8 @@ state={
 		aluminium = 8
 	}
 	history={
-		owner = EQS
-		add_core_of = EQS
+		#owner = EQS
+		#add_core_of = EQS
 		buildings = {
 			infrastructure = 2
 		}

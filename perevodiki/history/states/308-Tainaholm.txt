@@ -6,8 +6,8 @@ state={
 	}
 	manpower=853529
 	history={
-		owner = CHN
-		add_core_of = CHN
+		#owner = CHN
+		#add_core_of = CHN
 		buildings = {
 			air_base = 1
 			arms_factory = 1

@@ -4,8 +4,8 @@ state={
 	name="STATE_517"
 
 	history={
-		owner = VIN
-		add_core_of = VIN
+		#owner = VIN
+		#add_core_of = VIN
 		victory_points = { 13147 15 }
 		victory_points = { 13197 5 }
 		buildings = {

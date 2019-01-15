@@ -10,8 +10,8 @@ state={
 		crystals = 6
 	}
 	history={
-		owner = YAK
-		add_core_of = YAK
+		#owner = YAK
+		#add_core_of = YAK
 	}
 
 	state_category = wasteland

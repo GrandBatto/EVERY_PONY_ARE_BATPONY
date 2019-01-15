@@ -6,8 +6,8 @@ state={
 		945 3949 3970 4260 6860 6910 6981 7229 7426 9848 10195 10238 12210
 	}
 	history = {
-		owner = SIC
-		add_core_of = SIC
+		#owner = SIC
+		#add_core_of = SIC
 		buildings = {
 			infrastructure = 2
 			10195 = {

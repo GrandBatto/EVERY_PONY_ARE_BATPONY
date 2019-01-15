@@ -10,8 +10,8 @@ state={
 	}
 	state_category = town
 	history = {
-		owner = JEB
-		add_core_of = JEB
+		#owner = JEB
+		#add_core_of = JEB
 		victory_points = { 1036 10 }
 		buildings = {
 			infrastructure = 2

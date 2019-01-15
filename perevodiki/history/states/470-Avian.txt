@@ -4,8 +4,8 @@ state={
 	name="STATE_470"
 
 	history={
-		owner = AVI
-		add_core_of = AVI
+		#owner = AVI
+		#add_core_of = AVI
 		victory_points = {
 			5063 10
 		}

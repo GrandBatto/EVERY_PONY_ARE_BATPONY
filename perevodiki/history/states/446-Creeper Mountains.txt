@@ -12,9 +12,9 @@ state={
 		tungsten=6.000
 	}
 	history={
-		owner = BAN
-		add_core_of = CYA
-		add_core_of = BAN
+		#owner = BAN
+		#add_core_of = CYA
+		#add_core_of = BAN
 		add_claim_by = MIT
 		victory_points = { 12433 1 }
 	}
