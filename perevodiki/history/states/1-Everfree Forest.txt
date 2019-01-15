@@ -1,18 +1,29 @@
 
-#state={
-#	#id=1
-#	#name="STATE_1"
-#
-#	#history={
-#	#	owner = EQS
-#	#	add_core_of = EQS
-#
-#	#}
-#
-#	#provinces={
-#		#512 553 3579 3604 3626 3655 6449 6533 6599 6780 9434 9550 9578 9582 9598 9629 11535 11570 11584
-#	#}
-#	#manpower=13
-#	#buildings_max_level_factor=1.000
-#	#state_category=wasteland
-#}
+state={
+	id=1
+	name="STATE_1"
+
+	history={
+
+	}
+
+	provinces={
+		512 553 3579 3604 3626 3655 6449 6533 6599 6780 9434 9550 9578 9582 9598 9629 11535 11570 11584
+		603 764 776 3741 3768 6631 6747 9622 9741 9745 11655 13124
+		156 179 911 1173 3764 3773 3928 6788 6975 9138 9182 9218 9738 11114 13058
+		902 3838 4913 6891 9851 9863 10917 11673 11755 11773 11804 11824
+		770 3509 3534 3782 11721 11730
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	resources = {
+		oil = 0
+		aluminium = 0
+		rubber = 0
+		tungsten = 0
+		steel = 0
+		chromium = 0
+	}
+	impassable = yes
+}
