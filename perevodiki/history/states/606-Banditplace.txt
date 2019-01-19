@@ -11,9 +11,9 @@ state={
 		tungsten=10.000
 	}
 	history = {
-		add_core_of = BAN
+		add_core_of = GER
 		add_core_of = BOI
-		owner = BAN
+		owner = GER
 	}
 	manpower=67055
 	buildings_max_level_factor=1.000

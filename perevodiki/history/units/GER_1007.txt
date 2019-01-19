@@ -1,6 +1,6 @@
 ﻿division_template = {
-	name = "Griffon Infantry Division"
-	division_names_group = BAN_INF_01
+	name = " Геи Переводчики"
+	division_names_group = GER_INF_01
 	regiments = {
 		infantry = { x = 0 y = 0 }
 		infantry = { x = 0 y = 1 }
@@ -15,7 +15,7 @@
 }
 division_template = {
 	name = "Mountaineer Division"
-	division_names_group = BAN_MNT_01
+	division_names_group = GER_MNT_01
 	regiments = {
 		mountaineers = { x = 0 y = 0 }
 		mountaineers = { x = 0 y = 1 }
@@ -98,7 +98,7 @@ instant_effect = {
 	add_equipment_production = {
 		equipment = {
 			type = infantry_equipment_0
-			creator = "BAN"
+			creator = "GER"
 		}
 		requested_factories = 1
 		progress = 0.50
@@ -108,7 +108,7 @@ instant_effect = {
 	add_equipment_production = {
 		equipment = {
 			type = support_equipment_1
-			creator = "BAN" 
+			creator = "GER" 
 		}
 		requested_factories = 1
 		progress = 0.40

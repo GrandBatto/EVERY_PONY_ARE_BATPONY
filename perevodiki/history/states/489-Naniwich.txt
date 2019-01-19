@@ -12,9 +12,9 @@ state={
 		tungsten=4.000
 	}
 	history = {
-		add_core_of = BAN
+		add_core_of = GER
 		add_core_of = BOI
-		owner = BAN
+		owner = GER
 		victory_points = { 4528 5 }
 	}
 	manpower=145677

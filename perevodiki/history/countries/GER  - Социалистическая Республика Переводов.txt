@@ -1,5 +1,5 @@
 ﻿capital = 532
-oob = "BAN_1007"
+oob = "GER"
 set_research_slots = 3
 
 set_technology = {
@@ -43,9 +43,9 @@ set_politics = {
 }
 add_ideas = {
 	pre_industrial_society
-	BAN_lawless_land
-	BAN_blackrocks_army
-	BAN_economic_wasteland
+	GER_lawless_land
+	GER_blackrocks_army
+	GER_economic_wasteland
 }
 
 set_stability = 0.5
@@ -120,9 +120,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Алексия "Геревал" Голдгир"
-	desc = "gereval.tga"
-	picture = "gereval.tga"
+	name = "Алексия 'Геревал' Голдгир"
+	desc = "gereval_desc"
+	picture = "Gereval.tga"
 	expire = "1965.1.1"
 	ideology = stalinism
 	traits = {
@@ -132,7 +132,7 @@ create_country_leader = {
 
 create_field_marshal = {
 	name = "Kajetan Bronsfeather"
-	portrait_path = "gfx/leaders/BAN/GriffonPirate.tga"
+	portrait_path = "gfx/leaders/GER/GriffonPirate.tga"
 	traits = {
 		aggressive_assaulter
 	}
@@ -145,7 +145,7 @@ create_field_marshal = {
 
 create_corps_commander = {
 	name = "Dominik Pinfeather"
-	portrait_path = "gfx/leaders/BAN/BANGen.tga"
+	portrait_path = "gfx/leaders/GER/BANGen.tga"
 	traits = {
 		trait_mountaineer
 	}
@@ -158,7 +158,7 @@ create_corps_commander = {
 
 create_corps_commander = {
 	name = "Ulrich Hiperion"
-	portrait_path = "gfx/leaders/BAN/BANGen2.tga"
+	portrait_path = "gfx/leaders/GER/BANGen2.tga"
 	traits = { }
 	skill = 1
 	attack_skill = 1
