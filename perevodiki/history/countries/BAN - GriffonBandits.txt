@@ -120,11 +120,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Reeve Blyeddin"
-	desc = "gommie_boi_desc"
-	picture = "Reeve.tga"
+	name = "Алексия "Геревал" Голдгир"
+	desc = "gereval.tga"
+	picture = "gereval.tga"
 	expire = "1965.1.1"
-	ideology = equalism
+	ideology = stalinism
 	traits = {
 
 	}
