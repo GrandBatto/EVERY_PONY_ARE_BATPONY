@@ -20,11 +20,11 @@ set_politics = {
 
 	parties = {
 		democratic = {
-			popularity = 10
+			popularity = 0
 		}
 
 		fascism = {
-			popularity = 2
+			popularity = 12
 		}
 
 		communism = {
@@ -88,7 +88,7 @@ add_equipment_to_stockpile = {
 }
 
 create_country_leader = {
-	name = "Cyrille Bluecrest"
+	name = "Низоу"
 	desc = "cyrille_desc"
 	picture = "Bluecrest.tga"
 	expire = "1965.1.1"
@@ -98,18 +98,18 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Blackrock"
+	name = "ГрандПри"
 	desc = "thor_waifu_desc"
 	picture = "Blackrock.tga"
 	expire = "1965.1.1"
-	ideology = bandit
+	ideology = fascism_ideology
 	traits = {
 
 	}
 }
 
 create_country_leader = {
-	name = "Cyrille Bluecrest"
+	name = "Визор"
 	desc = "cyrille_desc"
 	picture = "Bluecrest.tga"
 	expire = "1965.1.1"

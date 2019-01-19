@@ -8,11 +8,18 @@ GER_neutrality_DEF:0 "Ханство Качественых Переводов"
 GER_fascism_DEF:0 "Меркбик"
 GER_communism_DEF:0 "Социалистицеская Республика Переводов"
 GER_democratic_DEF:0 "Какой-то je Peder"
-GER_fascism_ADJ:0 "Переводчевск."
-GER_democratic_ADJ:0 "Переводчевск."
-GER_communism_ADJ:0 "Переводчевск." 
-GER_neutrality_ADJ:0 "Переводчевск."
+GER_fascism_ADJ:0 "Переводческ."
+GER_democratic_ADJ:0 "Переводческ."
+GER_communism_ADJ:0 "Переводческ." 
+GER_neutrality_ADJ:0 "Переводческ."
 ### names ###
 ### parties ###
+GER_neutrality_party:0 "ПКП"
+GER_neutrality_party_long:0 "Партия к0чественого перевада"
+GER_communism_party:0 "РПП"
+GER_communism_party_long:0 "Революционно-прогрессивистская партия"
+GER_democratic_party:0 "Забытые"
+GER_fascism_party:0 "ПЕП"
+GER_fascism_party_long:0 "Партия единого перевода"
 ########## focus localisation ######
 ### events ###
