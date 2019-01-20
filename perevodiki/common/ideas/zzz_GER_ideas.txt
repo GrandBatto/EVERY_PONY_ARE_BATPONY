@@ -21,6 +21,9 @@ ideas = {
 			}
 			available = {
 				NOT = {
+					has_country_leader = {
+					ruling_only = yes name = "ГрандПри"
+					}
 					any_other_country = {
 						has_country_leader = {
 							ruling_only = yes name = "ГрандПри"
