@@ -12,3 +12,23 @@ ideas = {
 				political_power_cost = -0.1
 			}
 		}
+	}
+		
+	high_command = {
+		grandpri = {
+			allowed = {
+				original_tag = GER
+			}
+			available = {
+				NOT = {
+					any_other_country = {
+						has_country_leader = {
+							ruling_only = yes name = "ГрандПри"
+						}
+					}
+				}
+			}
+			traits = {army_artillery_1}			
+		}
+	}
+}

@@ -3770,4 +3770,8 @@ spriteTypes = {
 		name = "GFX_idea_GER_Gereval_god"
 		texturefile = "gfx/interface/ideas/Pidor.dds"
 	}
+	SpriteType = {
+		name = "GFX_idea_GER_grandpri"
+		texturefile = "gfx\interface\ideas"
+	}
 }
