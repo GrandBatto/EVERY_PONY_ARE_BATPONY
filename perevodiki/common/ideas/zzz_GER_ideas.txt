@@ -1,0 +1,14 @@
+ideas = {
+	country = {
+		GER_Gereval_god = {
+			allowed = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 10
+				war_support_factor = 20
+				political_power_cost = -0.1
+			}
+		}
