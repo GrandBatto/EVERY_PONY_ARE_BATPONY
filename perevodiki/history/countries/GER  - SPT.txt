@@ -1,5 +1,5 @@
 ﻿capital = 532
-oob = "GER"
+oob = "GER_1007"
 set_research_slots = 3
 
 set_technology = {
