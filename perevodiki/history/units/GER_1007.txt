@@ -1,4 +1,4 @@
-division_template = {
+﻿division_template = {
 	name = "Kopytnaya Diviziya"
 	division_names_group = STG_INF_01
 	regiments = {
@@ -14,7 +14,7 @@ division_template = {
 		artillery = { x = 0 y = 0 }
 	}
 }
-}
+
 units = {
 	division = {
 		name = "Diviziya im. Stalliona"
@@ -39,5 +39,5 @@ units = {
 		location = 532
 		division_template = "Kopytnaya Diviziya"
 		start_experience_factor = 0.4 }
-		}
+}
 		
