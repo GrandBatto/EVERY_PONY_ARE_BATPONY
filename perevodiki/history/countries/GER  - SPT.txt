@@ -23,7 +23,7 @@ set_politics = {
 
 	parties = {
 		democratic = {
-			popularity = 0
+			popularity = 1
 		}
 
 		fascism = {
@@ -35,7 +35,7 @@ set_politics = {
 		}
 
 		neutrality = {
-			popularity = 18
+			popularity = 17
 		}
 	}
 
@@ -134,16 +134,17 @@ create_country_leader = {
 }
 
 create_field_marshal = {
-	name = "Kajetan Bronsfeather"
-	portrait_path = "gfx/leaders/GER/GriffonPirate.tga"
+	name = "Алексия 'Геревал' Голдгир"
+	portrait_path = "gfx/leaders/GER/Gereval2.tga"
 	traits = {
-		aggressive_assaulter
+		night_guard
+		bearer_of_artillery
 	}
-	skill = 2
-	attack_skill = 1
-	defense_skill = 2
+	skill = 1
+	attack_skill = 3
+	defense_skill = 3
 	planning_skill = 1
-	logistics_skill = 3
+	logistics_skill = 1
 }
 
 create_corps_commander = {
