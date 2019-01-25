@@ -1,0 +1,26 @@
+add_namespace = bufstate
+
+
+country_event = {
+	id = ger.1
+	title = ger.1.t
+	desc = ger.1.d
+	picture = GFX_event_canyons
+
+	is_triggered_only = yes
+	option = {
+		name = ger.1.a
+		start_civil_war = {
+			ideology = neutrality
+			size = 0.5
+		}
+	}
+	option = {
+		name = ger.1.b
+		start_civil_war = {
+			ideology = communism
+			size = 0.5
+		}
+		set_ruling_party = {communism}
+	}
+}
