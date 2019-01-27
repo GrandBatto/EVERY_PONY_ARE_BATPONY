@@ -15,12 +15,4 @@ country_event = {
 			size = 0.5
 		}
 	}
-	option = {
-		name = ger.1.b
-		start_civil_war = {
-			ideology = communism
-			size = 0.5
-		}
-		set_ruling_party = {communism}
-	}
 }
