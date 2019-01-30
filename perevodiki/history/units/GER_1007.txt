@@ -14,30 +14,94 @@
 		artillery = { x = 0 y = 0 }
 	}
 }
+division_template = {
+	name = "daynichi"
+	division_names_group = STG_INF_01
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+}
 
 units = {
 	division = {
-		name = "Diviziya im. Stalliona"
-		location = 532
+		name = "Diviziya im. Gerevala"
+		location = 10025
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+		
+		division = {
+		name = "Diviziya im. Merkbirka"
+		location = 10025
 		division_template = "Kopytnaya Diviziya"
 		start_experience_factor = 0.4 }
 		
 		division = {
-		name = "Diviziya im. Stalliona"
-		location = 532
+		name = "Diviziya im. Levchinskogo"
+		location = 10025
 		division_template = "Kopytnaya Diviziya"
 		start_experience_factor = 0.4 }
 		
 		division = {
-		name = "Diviziya im. Stalliona"
-		location = 532
+		name = "Diviziya im. Perevoda"
+		location = 10025
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+
+        division = {
+		name = "Diviziya im. Gerevala"
+		location = 10025
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+	   #######blackhollow#########
+		division = {
+		name = "Diviziya im. Mureni"
+		location = 1464
 		division_template = "Kopytnaya Diviziya"
 		start_experience_factor = 0.4 }
 		
 		division = {
-		name = "Diviziya im. Stalliona"
-		location = 532
+		name = "Diviziya im. Levchinskogo"
+		location = 1464
 		division_template = "Kopytnaya Diviziya"
 		start_experience_factor = 0.4 }
+		
+		division = {
+		name = "Diviziya im. Perevoda"
+		location = 1464
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+		
+		division = {
+		name = "Diviziya im. Perevoda"
+		location = 1464
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+		
+		division = {
+		name = "Diviziya im. Perevoda"
+		location = 1464
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+		#######нэнвич########
+		division = {
+		name = "Diviziya im. Perevoda"
+		location = 4528
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+		
+		division = {
+		name = "Diviziya im. Perevoda"
+		location = 4528
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+		
+		division = {
+		name = "Diviziya im. Perevoda"
+		location = 4528
+		division_template = "daynichi"
+		start_experience_factor = 0.1 }
+
 }
 		

@@ -11,11 +11,11 @@ state={
 		owner = GER
 		victory_points = { 10025 15 }
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			arms_factory = 1
+			infrastructure = 8
+			industrial_complex = 7
+			arms_factory = 5
 		}
 	}
-	manpower=567009
+	manpower=3567009
 	buildings_max_level_factor=1.000
 }
