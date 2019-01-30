@@ -16,7 +16,6 @@ set_technology = {
 	tech_mountaineers = 1
 }
 add_ideas = {
-        GER_Gereval_god
 }
 
 set_convoys = 70
@@ -45,12 +44,6 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
-add_ideas = {
-	pre_industrial_society
-	GER_lawless_land
-	GER_blackrocks_army
-	GER_economic_wasteland
-}
 
 set_stability = 0.5
 set_war_support = 0.5
@@ -58,8 +51,8 @@ set_country_flag = have_regular_puppets
 
 add_equipment_to_stockpile = {
 	type = melee_equipment_1
-	amount = 250
-	producer = LUS
+	amount = 1000
+	producer = GER
 }
 
 add_equipment_to_stockpile = {
