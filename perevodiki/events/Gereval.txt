@@ -1,17 +1,30 @@
-﻿add_namespace = bufstate
-
+﻿add_namespace = ger
+add_namespace = ger_news
 
 country_event = {
-	id = ger.1
-	title = ger.1.t
-	desc = ger.1.d
+	id = ger.2
+	title = ger.2.t
+	desc = ger.2.d
 	picture = GFX_event_canyons
 
 	is_triggered_only = yes
 	option = {
-		name = ger.1.a
+		ai_chance = {
+			factor = 20
+		}
+		name = ger.2.a
 		start_civil_war = {
 			ideology = neutrality
+			size = 0.1
+		}
+	}
+	option = {
+		ai_chance = {
+			factor = 20
+		}
+		name = ger.2.b
+		start_civil_war = {
+			ideology = fascism #или что другое, хуй знает
 			size = 0.1
 		}
 	}
