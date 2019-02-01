@@ -17,6 +17,6 @@ state={
 		owner = GER
 		victory_points = { 4528 5 }
 	}
-	manpower=145677
+	manpower=1600000
 	buildings_max_level_factor=1.000
 }
